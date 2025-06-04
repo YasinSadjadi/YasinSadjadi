@@ -11,14 +11,14 @@
 
 ## 🚀 Projects I'm proud of
 
+- 👁️ **Face Recognition System**  
+  Real-time face recognition using `ArcFace ResNet100` and `ONNX Runtime GPU`. Run `machine.py` for CLI-based state-machine execution or `main.py` for a PyQt5 interface. CUDA support recommended.
+
 - 🤖 **Line Follower Robot**  
   A simple but reliable Raspberry Pi-based robot that follows lines using a state machine approach. Code structured for clarity and real-world testing.
 
 - 🗣️ **Voice Assistant**  
   Built with [`microsoft/phi-2`](https://huggingface.co/microsoft/phi-2) (2.7B params), OpenAI's Whisper for English speech-to-text, and VITS for English TTS. Lightweight, offline-ready.
-
-- 👁️ **Face Recognition System**  
-  Real-time face recognition using `ArcFace ResNet100` and `ONNX Runtime GPU`. Run `machine.py` for CLI-based state-machine execution or `main.py` for a PyQt5 interface. CUDA support recommended.
 
 ---
 
