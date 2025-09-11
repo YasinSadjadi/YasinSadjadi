@@ -20,15 +20,21 @@
 - 🗣️ **Voice Assistant**  
   Built with [`microsoft/phi-2`](https://huggingface.co/microsoft/phi-2) (2.7B params), OpenAI's Whisper for English speech-to-text, and VITS for English TTS. Lightweight, offline-ready.
 
--  **eShop**
-  A graphQL backend of a shop using asp.net and HotChocolate.
+- 🛒 **eShop GraphQL Backend**  
+  A backend for an online shop built with **ASP.NET Core** and **HotChocolate v14**.  
+  Features include:  
+  - GraphQL Queries & Mutations with filtering, sorting, paging  
+  - EF Core with SQL Server for data persistence  
+  - Repository pattern for clean data access  
+  - Docker Compose setup for database (SQL Server)  
+  - Ready-to-scale layered architecture (API / Application / Infrastructure)  
 
 ---
 
 ## 🧠 My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,raspberrypi,cpp,cs,dotnet,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,raspberrypi,cpp,cs,dotnet,graphql,html,css,js" />
 </p>
 
 - **Python** – Main language for most AI, robotics, and backend logic  
@@ -40,6 +46,8 @@
 - **TTS & STT** – Using Whisper & VITS for voice systems  
 - **Multithreading & Multiprocessing** – Responsive applications and real-time control  
 - **Gesture & Hand Detection** – Computer vision for interaction
+- **GraphQL (HotChocolate)** – Building scalable APIs with filtering, sorting, and paging
+- **Clean Architecture & Repository Pattern** – Scalable and maintainable backend design
 
 ---
 
