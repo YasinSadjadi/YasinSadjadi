@@ -20,6 +20,9 @@
 - 🗣️ **Voice Assistant**  
   Built with [`microsoft/phi-2`](https://huggingface.co/microsoft/phi-2) (2.7B params), OpenAI's Whisper for English speech-to-text, and VITS for English TTS. Lightweight, offline-ready.
 
+-  **eShop**
+  A graphQL backend of a shop using asp.net and HotChocolate.
+
 ---
 
 ## 🧠 My Skills
