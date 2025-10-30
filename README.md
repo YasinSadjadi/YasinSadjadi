@@ -20,16 +20,17 @@
   - Docker Compose setup for database (SQL Server)  
   - Ready-to-scale layered architecture (API / Application / Infrastructure)
  
- - 🛠️ **BlazorLayout Template**
+- 🛠️ **BlazorLayout Template**
 
   A clean and modular **Blazor WebAssembly** layout template designed for fast project setup and scalable architecture.
-  Features include:
-    - Standalone **Blazor WebAssembly** project template  
-    - Fully structured layout and page organization  
-    - Clean separation between UI and logic layers  
-    - Component-based, easily customizable design  
-    - Ready to use from **Visual Studio → New Project** or via CLI  
-    - Ideal as a solid starting point for Blazor applications and prototypes
+  Features include:  
+  - Standalone **Blazor WebAssembly** project template  
+  - Fully structured layout and page organization  
+  - Clean separation between UI and logic layers  
+  - Component-based, easily customizable design  
+  - Ready to use from **Visual Studio → New Project** or via CLI  
+  - Ideal as a solid starting point for Blazor applications and prototypes
+
 
 - 👁️ **Face Recognition System**  
   Real-time face recognition using `ArcFace ResNet100` and `ONNX Runtime GPU`. Run `machine.py` for CLI-based state-machine execution or `main.py` for a PyQt5 interface. CUDA support recommended.
